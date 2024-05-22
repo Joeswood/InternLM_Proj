@@ -4,7 +4,7 @@
 
 ### InternLM2体系
 
-![Screenshot 2024-05-22 at 10.27.06 PM](./Screenshot/Screenshot 2024-05-22 at 10.27.06 PM.png)
+![1](./Screenshot/1.png)
 
 书生浦语大模型2.0分为7B与20B的版本, 在基座模型的规格之上, 还提供了InternLM2 这样的加强模型还有InternLM2-Chat 针对对话交互的微调后的模型, 分别能适应不同的部署环境已经不同的交互方式.
 
